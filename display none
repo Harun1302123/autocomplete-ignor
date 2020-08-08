@@ -1,0 +1,9 @@
+<form>
+  <div style="display: none;">
+      <input type="text" autocomplete="new-user">
+      <input type="password" autocomplete="new-password">
+  </div>
+  
+  <input type="text" name="username"/>
+  <input type="password" name="userpass" />
+</form>
